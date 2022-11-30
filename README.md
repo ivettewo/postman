@@ -8,4 +8,4 @@
 - Вставляем ссылку из дока.
 
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/df5a590c2d10d9c6d622?action=collection%2Fimport)
+[![Опачки HHH](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/feb64b2aabdc9c7aa76d?action=collection%2Fimport)
